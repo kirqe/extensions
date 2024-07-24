@@ -193,7 +193,7 @@ version = "0.0.1"
 
 [denix]
 submodule = "extensions/denix"
-version = "0.0.6"
+version = "0.0.8"
 
 [deno]
 submodule = "extensions/zed"
@@ -456,6 +456,10 @@ version = "0.0.3"
 submodule = "extensions/leblackque"
 version = "1.0.1"
 
+[ledger]
+submodule = "extensions/ledger"
+version = "0.0.2"
+
 [less]
 submodule = "extensions/less"
 version = "0.0.1"
@@ -519,7 +523,7 @@ version = "0.0.1"
 
 [mau]
 submodule = "extensions/mau"
-version = "0.0.3"
+version = "0.0.4"
 
 [melange]
 submodule = "extensions/melange"
@@ -774,7 +778,7 @@ version = "0.0.8"
 [ruff]
 submodule = "extensions/zed"
 path = "extensions/ruff"
-version = "0.0.1"
+version = "0.0.2"
 
 [s-dark-theme]
 submodule = "extensions/s-dark-theme"
@@ -856,7 +860,7 @@ version = "0.0.2"
 
 [starlark]
 submodule = "extensions/starlark"
-version = "0.1.2"
+version = "0.2.0"
 
 [stimulus]
 submodule = "extensions/stimulus"
